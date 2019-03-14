@@ -1,0 +1,13 @@
+body{
+	margin-top:20px;
+	background-image:url('/WEB-INF/images/s77.jpg') ;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-height:100%;
+	
+	
+}
+.jumbotron{
+	background:rgba(0,0,0,0.1);
+}
